@@ -1,5 +1,7 @@
 ### 👋 PATRICK AMBROSE
-`Cloud | DevOps | Data`
+**`Cloud | DevOps | Data`**
+
+As a person with an affinity to be resourceful, data-driven and concise, I gravitate towards learning and implementing things that increase productivity and solve problems that yield actionable business solutions. In my current role, I collaborate with cross-functional teams and other stakeholders to make sure the SAP master data is accurate, build systems to plan, manage inventory and predict material shortage impact. In my leisure hours, I learn UX design, Interior design, woodworking and 3D modelling.
 
 ### 🧰 Skill Stack
 
