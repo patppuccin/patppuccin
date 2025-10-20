@@ -69,8 +69,11 @@ When I’m not on the clock, you’ll find me in my **HomeLab**, experimenting w
 - I relax with **movies and games**, recently playing *Assassin’s Creed Odyssey*  
 - I often code late at night while listening to **ambient soundtracks**  
 
+<br>
+
 <details>
   <summary><b>🧭 My Engineering Philosophy</b></summary>
+  <br>
 
   I began as a **biotechnologist**, fascinated by how life organizes itself. Over time, that curiosity shifted toward **how systems and machines work**. What started as curiosity turned into a lifelong pursuit. I experimented, broke things, fixed them, and learned why they failed.  
 
