@@ -53,6 +53,13 @@ When I’m not on the clock, you’ll find me in my **HomeLab**, experimenting w
 #### 📚 Some of my recent musings
 
 <!-- MUSINGS-LIST:START -->
+- [aaaaaa](https://www.patrickambrose.com/musings/frontend-essenials/)
+- [Webhook Service | How To Approach System Design Interview + Practical Examplecategory](https://www.patrickambrose.com/musings/webhook-service/)
+- [Mastering Relational Database Design | A Comprehensive Guide](https://www.patrickambrose.com/musings/database-design/)
+- [Mastering SQL | Comprehensive Guide To Structured Query Language](https://www.patrickambrose.com/musings/sql-guide/)
+- [Does Data Structures and Algorithms Matter in Backend? No BS Answer!](https://www.patrickambrose.com/musings/dsa/)
+- [Unveiling the Backbone Dive Deep into Backend Engineering Essentials!](https://www.patrickambrose.com/musings/backend-essenials/)
+- [Let&#39;s Build a Learning Management System &lpar;LMS&rpar; | Hands-on Learning Approach](https://www.patrickambrose.com/musings/lms-system/)
 <!-- MUSINGS-LIST:END -->
 
 #### 🎮 When Away From Work
