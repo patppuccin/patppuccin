@@ -1,0 +1,27 @@
+# Update README with latest musings from Portfolio Website
+name: Update Musings from Portfolio
+
+# Controls when the workflow will run
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 */8 * * *' # Runs once every 8 hours
+  workflow_dispatch: # Allow Manual trigger
+
+# Grants access to write changes to README
+permissions:
+  contents: write 
+
+# Lists the steps to be executed by the workflow
+jobs:
+  update-musings:
+    name: Update profile repo's README with latest musings
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+      - name: Fetch Musings
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.patrickambrose.com/rss.xml"
+          comment_tag_name: "MUSINGS-LIST"
+          max_post_count: 7
