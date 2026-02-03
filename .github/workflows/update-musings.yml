@@ -3,8 +3,8 @@ name: Update Musings from Portfolio
 
 # Controls when the workflow will run
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 */8 * * *' # Runs once every 8 hours
+  # schedule: # Run workflow automatically
+    # - cron: '0 */8 * * *' # Runs once every 8 hours
   workflow_dispatch: # Allow Manual trigger
 
 # Grants access to write changes to README
