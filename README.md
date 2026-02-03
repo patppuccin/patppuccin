@@ -50,10 +50,9 @@ When I’m not on the clock, you’ll find me in my **HomeLab**, experimenting w
 - [**VIEWR**](https://github.com/patppuccin/asky) - A simple, local-first, read-only file browser
 - [**TERMICOLR**](https://github.com/patppuccin/termicor) - Lightweight terminal theming package for Go CLI apps.
 
-#### 📚 Some of my recent musings
+<!-- #### 📚 Some of my recent musings -->
 
 <!-- MUSINGS-LIST:START -->
-- [Essential CommandLine Tools](https://www.patrickambrose.com/musings/cli-essentials/)
 <!-- MUSINGS-LIST:END -->
 
 #### 🎮 When Away From Work
