@@ -5,10 +5,11 @@ DevOps • Software • Cloud • Homelab
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-9E7A75?style=for-the-badge&logo=internetarchive&logoColor=white)](https://patrickambrose.com)
-[![Resume](https://img.shields.io/badge/Resume-6C7086?style=for-the-badge&logo=readthedocs&logoColor=white)](https://resume.patrickambrose.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pat-ambrose)
-[![Email](https://img.shields.io/badge/Email-44475A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@patrickambrose.com)
+[![Personal Website](https://img.shields.io/badge/Website-964E46?style=for-the-badge&logo=internetarchive&logoColor=white)](https://patrickambrose.com)
+[![Dev Website](https://img.shields.io/badge/Devsite-f6b93b?style=for-the-badge&logo=ipfs&logoColor=black)](https://patppuccin.com)
+[![Resume](https://img.shields.io/badge/Resume-27ae60?style=for-the-badge&logo=readthedocs&logoColor=white)](https://resume.patrickambrose.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D597F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pat-ambrose)
+[![Email](https://img.shields.io/badge/Email-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@patrickambrose.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patppuccin)
 
 </div>
@@ -47,8 +48,10 @@ When I’m not on the clock, you’ll find me in my **HomeLab**, experimenting w
 #### 🚧 My Open Source projects in progress
 
 - [**ASKY**](https://github.com/patppuccin/asky) - Simple interactive prompt library for Go.
-- [**VIEWR**](https://github.com/patppuccin/asky) - A simple, local-first, read-only file browser
-- [**TERMICOLR**](https://github.com/patppuccin/termicor) - Lightweight terminal theming package for Go CLI apps.
+- [**SERVD**](https://github.com/patppuccin/asky) - Cross-platform service manager, but easier.
+- [**TERMICOLR**](https://github.com/patppuccin/termicolr) - Lightweight terminal theming package for Go CLI apps.
+
+*Disclaimer:* These projects are work in progress and are not ready for production use cases. That being said, is anything ever fit for production use case? So use it anyway if you wish, cheers!
 
 <!-- #### 📚 Some of my recent musings -->
 
