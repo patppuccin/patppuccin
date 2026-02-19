@@ -1,16 +1,14 @@
 <h2 align="center">👋 Hey, I'm Patrick (<code>patppuccin</code>) Ambrose </h2>
-<p align="center"><b>
-DevOps • Software • Cloud • Homelab  
-</b></p>
+<p align="center"><b>DevOps • Software • Cloud • Homelab</b></p>
 
 <div align="center">
 
-[![Personal Website](https://img.shields.io/badge/Website-964E46?style=for-the-badge&logo=internetarchive&logoColor=white)](https://patrickambrose.com)
-[![Dev Website](https://img.shields.io/badge/Devsite-f6b93b?style=for-the-badge&logo=ipfs&logoColor=black)](https://patppuccin.com)
-[![Resume](https://img.shields.io/badge/Resume-27ae60?style=for-the-badge&logo=readthedocs&logoColor=white)](https://resume.patrickambrose.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D597F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pat-ambrose)
-[![Email](https://img.shields.io/badge/Email-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@patrickambrose.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patppuccin)
+[![Website](https://img.shields.io/badge/Website-cf6a87?style=for-the-badge&logoColor=black)](https://patrickambrose.com)
+[![Devsite](https://img.shields.io/badge/Devsite-f6b93b?style=for-the-badge&logoColor=black)](https://patppuccin.com)
+[![Resume](https://img.shields.io/badge/Resume-34D399?style=for-the-badge&logoColor=black)](https://resume.patrickambrose.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=black)](https://linkedin.com/in/pat-ambrose)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logoColor=black)](mailto:hey@patrickambrose.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logoColor=black)](https://github.com/patppuccin)
 
 </div>
 
@@ -44,14 +42,11 @@ When I’m not on the clock, you’ll find me in my **HomeLab**, experimenting w
 - Restructuring and documenting my **HomeLab servers** for better reliability and organization  
 - Continuously refining my **developer workflow** across terminals, editors, and automation setups  
 
-
 #### 🚧 My Open Source projects in progress
 
 - [**ASKY**](https://github.com/patppuccin/asky) - Simple interactive prompt library for Go.
 - [**SERVD**](https://github.com/patppuccin/asky) - Cross-platform service manager, but easier.
 - [**TERMICOLR**](https://github.com/patppuccin/termicolr) - Lightweight terminal theming package for Go CLI apps.
-
-*Disclaimer:* These projects are work in progress and are not ready for production use cases. That being said, is anything ever fit for production use case? So use it anyway if you wish, cheers!
 
 <!-- #### 📚 Some of my recent musings -->
 
