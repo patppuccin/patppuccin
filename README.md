@@ -42,10 +42,11 @@ When I’m not on the clock, you’ll find me in my **HomeLab**, experimenting w
 - Restructuring and documenting my **HomeLab servers** for better reliability and organization  
 - Continuously refining my **developer workflow** across terminals, editors, and automation setups  
 
-#### 🚧 My Open Source projects in progress
+#### 🚧 My Open Source projects
 
+- [**KREDENV**](https://github.com/patppuccin/kredenv) - Secrets, credentials & env vars, injected straight into your shell.
 - [**ASKY**](https://github.com/patppuccin/asky) - Simple interactive prompt library for Go.
-- [**SERVD**](https://github.com/patppuccin/asky) - Cross-platform service manager, but easier.
+- [**SERVD**](https://github.com/patppuccin/servd) - Cross-platform service manager, but easier.
 - [**TERMICOLR**](https://github.com/patppuccin/termicolr) - Lightweight terminal theming package for Go CLI apps.
 
 <!-- #### 📚 Some of my recent musings -->
