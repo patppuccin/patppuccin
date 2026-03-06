@@ -11,7 +11,6 @@
 [![Resume](https://img.shields.io/badge/Resume-34D399?style=for-the-badge&logoColor=black)](https://resume.patrickambrose.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=black)](https://linkedin.com/in/pat-ambrose)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logoColor=black)](mailto:hey@patrickambrose.com)
-[![GitHub](https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logoColor=black)](https://github.com/patppuccin)
 
 </div>
 
