@@ -1,6 +1,6 @@
 <div align="center">
 
-## Patrick (`patppuccin`) Ambrose
+# Patrick (`patppuccin`) Ambrose
 
 **DevOps · Platform Engineering · CLI Tools**
 
